@@ -31,3 +31,4 @@ vanshjha3434@gmail.com
 [![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
