@@ -28,7 +28,7 @@ vanshjha3434@gmail.com
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Vansh+Jha;Full+Stack+Developer;C%2B%2B+Developer;Open+Source+Learner)](https://git.io/typing-svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=v4nshjha-tech&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![](https://komarev.com/ghpvc/?username=v4nshjha-tech&color=blue)
+![](https://komarev.com/ghpvc/?username=v4nshjha-tech&color=blue)
