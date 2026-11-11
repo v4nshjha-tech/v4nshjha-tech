@@ -1,98 +1,110 @@
-<h1 align="center">Hi 👋, I'm Vansh Jha</h1>
-<h3 align="center">💻 Full Stack Developer | CSIT Student | Open Source Learner 🚀</h3>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;C%2B%2B+Developer;PHP+%7C+MySQL;Always+Learning+New+Things" />
-</p>
+# Hey, I'm Vansh Jha 👋
 
----
+### Full-Stack Developer • CSIT Student • Builder
 
-## 🚀 About Me
+I enjoy turning ideas into useful web applications and learning how things work under the hood.
 
-- 🎓 CSIT Student
-- 🌱 Currently Learning **React.js & Node.js**
-- 💻 Love Building Web Applications
-- ⚡ Passionate about Coding & Open Source
-- 📫 Email: **vanshjha3434@gmail.com**
+[![GitHub](https://img.shields.io/badge/GitHub-v4nshjha--tech-181717?style=for-the-badge&logo=github)](https://github.com/v4nshjha-tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vansh-jha-318a09338)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshjha3434@gmail.com)
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=C%2B%2B+%26+Web+Development;Building+Full-Stack+Projects;Exploring+AI+%26+Backend+Development;Learning+Something+New+Every+Day" alt="Typing SVG" />
 
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://github.com/v4nshjha-tech">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-## 💻 Tech Stack
+## 👨‍💻 About Me
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=js"/>
-
-<img src="https://skillicons.dev/icons?i=php"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-</p>
+- 🎓 CSIT undergraduate student.
+- 💻 Interested in full-stack and backend development.
+- 🌱 Currently learning **React.js, Node.js and Express.js**.
+- 🧠 Building with **C++, PHP, MySQL, JavaScript and web technologies**.
+- 🔍 Interested in problem-solving, databases and practical software projects.
+- 🤝 Open to learning, collaboration and beginner-friendly open-source contributions.
 
 ---
 
-## 📊 GitHub Stats
+## 🧰 Tech Stack
 
-![](https://github-readme-stats.vercel.app/api?username=v4nshjha-tech&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=v4nshjha-tech&layout=compact&theme=tokyonight&hide_border=true)
+### Languages
+<img src="https://skillicons.dev/icons?i=cpp,js,php" alt="C++, JavaScript, PHP" />
 
-![](https://streak-stats.demolab.com?user=v4nshjha-tech&theme=tokyonight&hide_border=true)
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,react" alt="HTML, CSS, React" />
 
----
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql" alt="Node.js, Express, MySQL" />
 
-## 🏆 GitHub Trophy
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code" />
 
-![](https://github-profile-trophy.vercel.app/?username=v4nshjha-tech&theme=tokyonight&no-frame=true&row=1)
-
----
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=v4nshjha-tech&label=Profile%20Views&color=0e75b6&style=flat)
+</div>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-✈️ Flight Booking System
+| Project | What it is | Built with |
+|---|---|---|
+| [✈️ Flight Booking Web](https://github.com/v4nshjha-tech/FLIGHT-BOOKING-WEB) · [Live Demo](https://vaultedge-vansh.rf.gd/) | Flight search and booking platform with passenger, agency, flight and booking management. | PHP, MySQL, JavaScript, Bootstrap |
+| [📚 SmartStudy AI](https://github.com/v4nshjha-tech/SmartStudy-AI) | Study assistant with smart planning, focus sessions, progress tracking and AI-generated notes. | HTML, CSS, JavaScript, Node.js, Gemini API |
+| [🏦 Bank Management System](https://github.com/v4nshjha-tech/BANK-MANAGEMENT) | Console-based banking project focused on core programming and file handling. | C++ |
+| [🤖 RAG Ollama Chatbot](https://github.com/v4nshjha-tech/rag-ollama-chatbot) | Exploring retrieval-augmented generation and locally run AI models. | RAG, Ollama |
 
-🏦 Bank Management System
+<div align="center">
 
-🌐 Portfolio Website
+[![Explore Repositories](https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/v4nshjha-tech?tab=repositories)
 
-🚀 More Coming Soon...
+</div>
 
 ---
 
-⭐ Thanks for visiting my profile!
-## 📈 Contribution Graph
+## 📊 GitHub Analytics
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=v4nshjha-tech&theme=tokyo-night)
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=v4nshjha-tech&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Vansh's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v4nshjha-tech&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=v4nshjha-tech&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=v4nshjha-tech&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=v4nshjha-tech&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always happy to connect with fellow developers, exchange ideas and collaborate on projects.
+
+- **GitHub:** [@v4nshjha-tech](https://github.com/v4nshjha-tech)
+- **LinkedIn:** [Vansh Jha](https://www.linkedin.com/in/vansh-jha-318a09338)
+- **Email:** [vanshjha3434@gmail.com](mailto:vanshjha3434@gmail.com)
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=v4nshjha-tech&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS)
+
+**Thanks for stopping by! ⭐**
+
+</div>
