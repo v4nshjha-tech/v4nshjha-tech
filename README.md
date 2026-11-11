@@ -68,26 +68,12 @@ I enjoy turning ideas into useful web applications and learning how things work 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=v4nshjha-tech&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Vansh's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v4nshjha-tech&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=v4nshjha-tech&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Vansh's GitHub stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=v4nshjha-tech&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used languages" />
 
 <br />
 
 <img src="https://streak-stats.demolab.com?user=v4nshjha-tech&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=v4nshjha-tech&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=v4nshjha-tech&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
 
 </div>
 
